@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.login:hover {
+  color: rgb(240, 236, 39);
+  font-weight: bold;
+}
+
+.about:hover {
+  color: yellow;
+  font-weight: bold;
+}
+
